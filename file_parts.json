@@ -1,39 +1,39 @@
 {
     "parts": [
         {
-            "part": "uploads\\output\\part_1.zip",
+            "part": "part_1.zip",
             "index": 1
         },
         {
-            "part": "uploads\\output\\part_2.zip",
+            "part": "part_2.zip",
             "index": 2
         },
         {
-            "part": "uploads\\output\\part_3.zip",
+            "part": "part_3.zip",
             "index": 3
         },
         {
-            "part": "uploads\\output\\part_4.zip",
+            "part": "part_4.zip",
             "index": 4
         },
         {
-            "part": "uploads\\output\\part_5.zip",
+            "part": "part_5.zip",
             "index": 5
         },
         {
-            "part": "uploads\\output\\part_6.zip",
+            "part": "part_6.zip",
             "index": 6
         },
         {
-            "part": "uploads\\output\\part_7.zip",
+            "part": "part_7.zip",
             "index": 7
         },
         {
-            "part": "uploads\\output\\part_8.zip",
+            "part": "part_8.zip",
             "index": 8
         },
         {
-            "part": "uploads\\output\\part_9.zip",
+            "part": "part_9.zip",
             "index": 9
         }
     ]
